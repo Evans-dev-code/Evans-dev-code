@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Evans Mwaura Mburu
 
-<!--
-**Evans-dev-code/Evans-dev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year**Computer Science** student at **Dedan Kimathi University of Technology**  
+💻 Passionate about **Web Development, Databases, and Cybersecurity**  
+🚀 Currently building projects with **Angular, Spring Boot, and MySQL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Java | C | JavaScript | HTML | CSS | TypeScrript | SCSS
+- **Frameworks & Tools:** Angular | Spring Boot | Git/GitHub
+- **Databases:** MySQL (intermediate), PostgreSQL (beginner)
+- **Other Skills:** Networking, Troubleshooting, Basic Cybersecurity
+
+---
+
+## 📂 Projects
+- 🛒 **E-Commerce System Prototype** – Built with Angular, Spring Boot & MySQL (team project)  
+- 🌐 **Personal Web Apps** – Backend-focused projects on GitHub   
+
+👉 Check my repositories below for more!
+
+---
+
+## 🌟 About Me
+- 🔭 Currently learning **advanced backend development & cybersecurity basics**  
+- 🤝 Open to **entry-level opportunities and internships (available from Jan 2026)**  
+- 📫 Reach me: **mwauraevans2003@gmail.com** | (tel:+254715431785)
+
+---
