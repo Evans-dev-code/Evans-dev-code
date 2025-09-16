@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Evans Mwaura Mburu
 
-🎓 Final-year**Computer Science** student at **Dedan Kimathi University of Technology**  
+🎓 Final-year **Computer Science** student at **Dedan Kimathi University of Technology**  
 💻 Passionate about **Web Development, Databases, and Cybersecurity**  
 🚀 Currently building projects with **Angular, Spring Boot, and MySQL**
 
